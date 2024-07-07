@@ -1,0 +1,16 @@
+127.0.0.1 - - [20/Feb/2024:09:12:25 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [20/Feb/2024:09:12:26 +0530] "GET /employee-management-system/WEB-INF/classes/com/te/ems/controller/EmployeeController.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [20/Feb/2024:09:12:27 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [20/Feb/2024:09:12:40 +0530] "DELETE /employee-management-system/app/employee/TY745 HTTP/1.1" 415 722
+0:0:0:0:0:0:0:1 - - [20/Feb/2024:09:15:30 +0530] "GET /employee-management-system/app/employee/TY735 HTTP/1.1" 200 201
+0:0:0:0:0:0:0:1 - - [20/Feb/2024:09:16:29 +0530] "DELETE /employee-management-system/app/employee/TY745 HTTP/1.1" 415 722
+0:0:0:0:0:0:0:1 - - [20/Feb/2024:09:16:44 +0530] "DELETE /employee-management-system/app/employee/ty745 HTTP/1.1" 415 722
+0:0:0:0:0:0:0:1 - - [20/Feb/2024:09:16:54 +0530] "DELETE /employee-management-system/app/employee/TY745 HTTP/1.1" 415 722
+0:0:0:0:0:0:0:1 - - [20/Feb/2024:09:17:08 +0530] "DELETE /employee-management-system/app/employee/employeeId/TY745 HTTP/1.1" 404 682
+127.0.0.1 - - [20/Feb/2024:09:28:08 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [20/Feb/2024:09:28:08 +0530] "GET /employee-management-system/WEB-INF/classes/com/te/ems/controller/EmployeeController.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [20/Feb/2024:09:28:22 +0530] "DELETE /employee-management-system/app/employee/employeeId/TY745 HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [20/Feb/2024:09:28:33 +0530] "DELETE /employee-management-system/app/employee/employeeId/TY745 HTTP/1.1" 404 682
+127.0.0.1 - - [20/Feb/2024:09:41:24 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [20/Feb/2024:09:41:24 +0530] "GET /employee-management-system/ HTTP/1.1" 200 52
+0:0:0:0:0:0:0:1 - - [20/Feb/2024:09:42:01 +0530] "DELETE /employee-management-system/app/employee/TY745 HTTP/1.1" 200 112

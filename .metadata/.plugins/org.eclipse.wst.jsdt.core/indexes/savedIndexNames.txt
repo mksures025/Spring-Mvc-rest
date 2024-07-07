@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+D:\TECHNO-ELEVATE\TRAINING\Spring-Mvc-rest\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+737952857.index
+125400929.index
+3333254476.index
+1357051158.index
